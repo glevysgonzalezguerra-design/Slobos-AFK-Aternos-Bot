@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "NexusCross.aternos.me",
+    "port": 59840,
     "version": "",
     "try-creative": false
   },
